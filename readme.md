@@ -1,6 +1,6 @@
 # Natours Application
 
-Full Stack app that allows users to add and book tours. Built using modern technologies: node.js, express, mongoDB, mongoose and friends. 
+Natours is a tour booking website that advertises and allows users to book tours. The project is a RESTful API and web app with authentication, Node.js security, payments via Stripe. Built using modern technologies: Node.js, Express, MongoDB and Mongoose. 
 
 Tutorial project completed as part of Udemy Course: "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/". 
 
